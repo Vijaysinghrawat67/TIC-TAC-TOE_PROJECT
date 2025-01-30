@@ -2,7 +2,7 @@
 
 **A fast and interactive web-based Tic-Tac-Toe game that allows users to play in real-time with dynamic matchmaking, live updates, and a smooth UI.**  
 
-![Tic-Tac-Toe Preview](https://via.placeholder.com/1000x500?text=Game+Preview)
+![Tic-Tac-Toe Preview](https://drive.google.com/file/d/16U-EguQ8OToCe7_YmwNz_IplLZi1BbAK/view?usp=drivesdk)
 
 ---
 
@@ -42,7 +42,7 @@
 
 | Lobby Screen | Game Board |
 |-------------|------------|
-| ![Lobby](https://via.placeholder.com/400x300?text=Lobby) | ![Game](https://via.placeholder.com/400x300?text=Game+Board) |
+| ![Lobby](https://drive.google.com/file/d/16L_6AiavDxgvl_EKf8cs-1uoTTlV309V/view?usp=drivesdk) | ![Game](https://drive.google.com/file/d/16Jab90JGtKfFLY1N1-vsK5DF8jVxLidE/view?usp=drivesdk) |
 
 ---
 
